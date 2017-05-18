@@ -1,2 +1,3 @@
 # My-Data-Science-Course
-My Data Science Course Repository
+This Repo is created to test the learnings I had from Coursera week2.
+Just test purposes, nothin serious is included here...
